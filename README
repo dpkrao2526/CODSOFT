@@ -1,0 +1,24 @@
+### Calculator with Background Image
+
+This is a simple calculator web application with a customized background image. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+### How to Use
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Use the buttons to input numbers and operators.
+4. Press "=" to see the result of the calculation.
+5. Press "C" to clear the input and start a new calculation.
+
+### Features
+
+- Responsive design: The calculator is designed to work on various screen sizes.
+- Background image: The calculator has a visually appealing background image.
+- Basic arithmetic operations: Addition, subtraction, multiplication, and division are supported.
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
